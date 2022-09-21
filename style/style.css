@@ -2025,7 +2025,7 @@ body.elementor-page-294>.elementor-motion-effects-container>.elementor-motion-ef
 	letter-spacing: var(--e-global-typography-02de0db-letter-spacing);
 	word-spacing: var(--e-global-typography-02de0db-word-spacing);
 	fill: var(--e-global-color-secondary);
-	color: var(--e-global-color-secondary);
+	color: white;
 	border-radius: 100px 100px 100px 100px;
 	padding: 8px 45px 8px 45px;
 }
@@ -4767,7 +4767,7 @@ body.elementor-page-294>.elementor-motion-effects-container>.elementor-motion-ef
   --e-global-color-cdebdce: #F2F2F2;
   --e-global-color-4e75905: #737373;
   --e-global-typography-primary-font-family: "stratos-bold";
-  --e-global-typography-primary-font-size: 73px;
+  --e-global-typography-primary-font-size: 150px;
   --e-global-typography-secondary-font-family: "stratos-bold";
   --e-global-typography-secondary-font-size: 40px;
   --e-global-typography-secondary-font-weight: 400;
